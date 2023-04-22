@@ -1,0 +1,75 @@
+driverId,permanentNumber,code,url,givenName,familyName,dateOfBirth,nationality
+alguersuari,,ALG,http://en.wikipedia.org/wiki/Jaime_Alguersuari,Jaime,Alguersuari,1990-03-23,Spanish
+alonso,14.0,ALO,http://en.wikipedia.org/wiki/Fernando_Alonso,Fernando,Alonso,1981-07-29,Spanish
+barrichello,,BAR,http://en.wikipedia.org/wiki/Rubens_Barrichello,Rubens,Barrichello,1972-05-23,Brazilian
+buemi,,BUE,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi,Sébastien,Buemi,1988-10-31,Swiss
+button,22.0,BUT,http://en.wikipedia.org/wiki/Jenson_Button,Jenson,Button,1980-01-19,British
+chandhok,,CHA,http://en.wikipedia.org/wiki/Karun_Chandhok,Karun,Chandhok,1984-01-19,Indian
+rosa,,DLR,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa,Pedro,de la Rosa,1971-02-24,Spanish
+grassi,,DIG,http://en.wikipedia.org/wiki/Lucas_di_Grassi,Lucas,di Grassi,1984-08-11,Brazilian
+glock,,GLO,http://en.wikipedia.org/wiki/Timo_Glock,Timo,Glock,1982-03-18,German
+hamilton,44.0,HAM,http://en.wikipedia.org/wiki/Lewis_Hamilton,Lewis,Hamilton,1985-01-07,British
+heidfeld,,HEI,http://en.wikipedia.org/wiki/Nick_Heidfeld,Nick,Heidfeld,1977-05-10,German
+hulkenberg,27.0,HUL,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Nico,Hülkenberg,1987-08-19,German
+klien,,KLI,http://en.wikipedia.org/wiki/Christian_Klien,Christian,Klien,1983-02-07,Austrian
+kobayashi,10.0,KOB,http://en.wikipedia.org/wiki/Kamui_Kobayashi,Kamui,Kobayashi,1986-09-13,Japanese
+kovalainen,,KOV,http://en.wikipedia.org/wiki/Heikki_Kovalainen,Heikki,Kovalainen,1981-10-19,Finnish
+kubica,88.0,KUB,http://en.wikipedia.org/wiki/Robert_Kubica,Robert,Kubica,1984-12-07,Polish
+liuzzi,,LIU,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi,Vitantonio,Liuzzi,1980-08-06,Italian
+massa,19.0,MAS,http://en.wikipedia.org/wiki/Felipe_Massa,Felipe,Massa,1981-04-25,Brazilian
+petrov,,PET,http://en.wikipedia.org/wiki/Vitaly_Petrov,Vitaly,Petrov,1984-09-08,Russian
+rosberg,6.0,ROS,http://en.wikipedia.org/wiki/Nico_Rosberg,Nico,Rosberg,1985-06-27,German
+michael_schumacher,,MSC,http://en.wikipedia.org/wiki/Michael_Schumacher,Michael,Schumacher,1969-01-03,German
+bruno_senna,,SEN,http://en.wikipedia.org/wiki/Bruno_Senna,Bruno,Senna,1983-10-15,Brazilian
+sutil,99.0,SUT,http://en.wikipedia.org/wiki/Adrian_Sutil,Adrian,Sutil,1983-01-11,German
+trulli,,TRU,http://en.wikipedia.org/wiki/Jarno_Trulli,Jarno,Trulli,1974-07-13,Italian
+vettel,5.0,VET,http://en.wikipedia.org/wiki/Sebastian_Vettel,Sebastian,Vettel,1987-07-03,German
+webber,,WEB,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Mark,Webber,1976-08-27,Australian
+yamamoto,,YAM,http://en.wikipedia.org/wiki/Sakon_Yamamoto,Sakon,Yamamoto,1982-07-09,Japanese
+ambrosio,,DAM,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio,Jérôme,d'Ambrosio,1985-12-27,Belgian
+resta,,DIR,http://en.wikipedia.org/wiki/Paul_di_Resta,Paul,di Resta,1986-04-16,British
+karthikeyan,,KAR,http://en.wikipedia.org/wiki/Narain_Karthikeyan,Narain,Karthikeyan,1977-01-14,Indian
+maldonado,13.0,MAL,http://en.wikipedia.org/wiki/Pastor_Maldonado,Pastor,Maldonado,1985-03-09,Venezuelan
+perez,11.0,PER,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sergio,Pérez,1990-01-26,Mexican
+ricciardo,3.0,RIC,http://en.wikipedia.org/wiki/Daniel_Ricciardo,Daniel,Ricciardo,1989-07-01,Australian
+grosjean,8.0,GRO,http://en.wikipedia.org/wiki/Romain_Grosjean,Romain,Grosjean,1986-04-17,French
+pic,,PIC,http://en.wikipedia.org/wiki/Charles_Pic,Charles,Pic,1990-02-15,French
+raikkonen,7.0,RAI,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Kimi,Räikkönen,1979-10-17,Finnish
+vergne,25.0,VER,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne,Jean-Éric,Vergne,1990-04-25,French
+jules_bianchi,17.0,BIA,http://en.wikipedia.org/wiki/Jules_Bianchi,Jules,Bianchi,1989-08-03,French
+bottas,77.0,BOT,http://en.wikipedia.org/wiki/Valtteri_Bottas,Valtteri,Bottas,1989-08-28,Finnish
+chilton,4.0,CHI,http://en.wikipedia.org/wiki/Max_Chilton,Max,Chilton,1991-04-21,British
+gutierrez,21.0,GUT,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez,Esteban,Gutiérrez,1991-08-05,Mexican
+garde,,VDG,http://en.wikipedia.org/wiki/Giedo_van_der_Garde,Giedo,van der Garde,1985-04-25,Dutch
+ericsson,9.0,ERI,http://en.wikipedia.org/wiki/Marcus_Ericsson,Marcus,Ericsson,1990-09-02,Swedish
+kvyat,26.0,KVY,http://en.wikipedia.org/wiki/Daniil_Kvyat,Daniil,Kvyat,1994-04-26,Russian
+lotterer,45.0,LOT,http://en.wikipedia.org/wiki/Andr%C3%A9_Lotterer,André,Lotterer,1981-11-19,German
+kevin_magnussen,20.0,MAG,http://en.wikipedia.org/wiki/Kevin_Magnussen,Kevin,Magnussen,1992-10-05,Danish
+stevens,28.0,STE,http://en.wikipedia.org/wiki/Will_Stevens,Will,Stevens,1991-06-28,British
+merhi,98.0,MER,http://en.wikipedia.org/wiki/Roberto_Merhi,Roberto,Merhi,1991-03-22,Spanish
+nasr,12.0,NAS,http://en.wikipedia.org/wiki/Felipe_Nasr,Felipe,Nasr,1992-08-21,Brazilian
+rossi,53.0,RSS,http://en.wikipedia.org/wiki/Alexander_Rossi_%28racing_driver%29,Alexander,Rossi,1991-09-25,American
+sainz,55.0,SAI,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Carlos,Sainz,1994-09-01,Spanish
+max_verstappen,33.0,VER,http://en.wikipedia.org/wiki/Max_Verstappen,Max,Verstappen,1997-09-30,Dutch
+haryanto,88.0,HAR,http://en.wikipedia.org/wiki/Rio_Haryanto,Rio,Haryanto,1993-01-22,Indonesian
+ocon,31.0,OCO,http://en.wikipedia.org/wiki/Esteban_Ocon,Esteban,Ocon,1996-09-17,French
+jolyon_palmer,30.0,PAL,http://en.wikipedia.org/wiki/Jolyon_Palmer,Jolyon,Palmer,1991-01-20,British
+vandoorne,2.0,VAN,http://en.wikipedia.org/wiki/Stoffel_Vandoorne,Stoffel,Vandoorne,1992-03-26,Belgian
+wehrlein,94.0,WEH,http://en.wikipedia.org/wiki/Pascal_Wehrlein,Pascal,Wehrlein,1994-10-18,German
+gasly,10.0,GAS,http://en.wikipedia.org/wiki/Pierre_Gasly,Pierre,Gasly,1996-02-07,French
+giovinazzi,99.0,GIO,http://en.wikipedia.org/wiki/Antonio_Giovinazzi,Antonio,Giovinazzi,1993-12-14,Italian
+brendon_hartley,28.0,HAR,http://en.wikipedia.org/wiki/Brendon_Hartley,Brendon,Hartley,1989-11-10,New Zealander
+stroll,18.0,STR,http://en.wikipedia.org/wiki/Lance_Stroll,Lance,Stroll,1998-10-29,Canadian
+leclerc,16.0,LEC,http://en.wikipedia.org/wiki/Charles_Leclerc,Charles,Leclerc,1997-10-16,Monegasque
+sirotkin,35.0,SIR,http://en.wikipedia.org/wiki/Sergey_Sirotkin_(racing_driver),Sergey,Sirotkin,1995-08-27,Russian
+albon,23.0,ALB,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,1996-03-23,Thai
+norris,4.0,NOR,http://en.wikipedia.org/wiki/Lando_Norris,Lando,Norris,1999-11-13,British
+russell,63.0,RUS,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29,George,Russell,1998-02-15,British
+aitken,89.0,AIT,http://en.wikipedia.org/wiki/Jack_Aitken,Jack,Aitken,1995-09-23,British
+pietro_fittipaldi,51.0,FIT,http://en.wikipedia.org/wiki/Pietro_Fittipaldi,Pietro,Fittipaldi,1996-06-25,Brazilian
+latifi,6.0,LAT,http://en.wikipedia.org/wiki/Nicholas_Latifi,Nicholas,Latifi,1995-06-29,Canadian
+mazepin,9.0,MAZ,http://en.wikipedia.org/wiki/Nikita_Mazepin,Nikita,Mazepin,1999-03-02,Russian
+mick_schumacher,47.0,MSC,http://en.wikipedia.org/wiki/Mick_Schumacher,Mick,Schumacher,1999-03-22,German
+tsunoda,22.0,TSU,http://en.wikipedia.org/wiki/Yuki_Tsunoda,Yuki,Tsunoda,2000-05-11,Japanese
+de_vries,45.0,DEV,http://en.wikipedia.org/wiki/Nyck_de_Vries,Nyck,de Vries,1995-02-06,Dutch
+zhou,24.0,ZHO,http://en.wikipedia.org/wiki/Guanyu_Zhou,Guanyu,Zhou,1999-05-30,Chinese
